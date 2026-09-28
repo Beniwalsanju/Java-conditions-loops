@@ -19,7 +19,5 @@ public class FibonacciSeriesInJavaPrograms {
         }
         System.out.println(b);
 
-
-
     }
 }
